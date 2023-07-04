@@ -1,9 +1,6 @@
-css
-Copy code
-/* Inheritance */
 body {
     font-family: Arial, sans-serif;
-    font-size: 18px;
+    font-size: 18px;font-weight: normal;font color:red ;
 }
 
 /* Select multiple elements */
